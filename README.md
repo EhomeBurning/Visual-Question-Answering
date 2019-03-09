@@ -18,7 +18,10 @@ make this a classification problem -> 1000 labeled <br>
 
 input: picture and text <br>
 picture -> VGG(Visual Geometry Group) <br>
-text -> rule based; word vector; RNN Language Model; <br>
+text -> rule based(one key word); word vector(word to matrix); RNN Language Model(near); <br>
+
+output
+
 
 
 
